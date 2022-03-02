@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Thashil
-- 👀 I’m interested in developing engines for video games
+- 👀 I’m interested in graphics rendering and the graphics pipeline
 - 🌱 I’m currently studying Computer Science
 - 📫 How to reach me:
   Email - tash2814@gmail.com
