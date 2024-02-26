@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thashil
 - 👀 I’m interested in graphics rendering and the graphics pipeline
-- 🌱 I’m currently studying Computer Science
+- 🌱 I’m currently working as a Junior Software Engineer at BBD
 - 📫 How to reach me:
   Email - tash2814@gmail.com
 
